@@ -369,3 +369,9 @@
 .footer .copyright a {
     color: var(--light);
 }
+
+@media (max-width: 991.98px) {
+    .footer .instagram-icon {
+        margin: 5px 0px 0px -25px;
+    }
+}
